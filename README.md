@@ -515,14 +515,6 @@ The following items are possible future improvements, not claims about existing 
 - Test production behavior under realistic workloads.
 - Document deployment, recovery, and maintenance procedures.
 
-### Portfolio Presentation
-
-- Publish a sanitized workflow export.
-- Prepare a complete architecture diagram.
-- Include workflow screenshots.
-- Record an end-to-end demonstration.
-- Publish the project documentation.
-
 # 19. Project Outcomes
 
 The development of AutoRex resulted in a multi-agent customer support workflow with:
@@ -550,17 +542,8 @@ The result is a modular automation project that goes beyond a simple chatbot by 
 **AutoRex represents an implementation of an AI-powered customer support automation architecture using n8n, OpenAI, Supabase, PostgreSQL, and Telegram.**
 
 ---
-
 ## Project Links and Media
 
-**GitHub Repository:** [Add repository URL]
-
-**Workflow Screenshots:** [Add screenshots]
-
-**Architecture Diagram:** [Add diagram]
-
-**Demo Video:** [Add demo URL]
-
-**Workflow Export:** [Add sanitized export]
-
-**Project Author:** [Add your preferred public name or username]
+- **Workflow Screenshot:** [View Main Workflow](../screenshots/autorex-main-workflow.png)
+- **Workflow Export:** [Download Workflow JSON](../workflows/autorex-main-workflow.json)
+- **Testing Results:** [View Testing Results](docs/testing-results.md)
